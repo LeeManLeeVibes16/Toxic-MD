@@ -13,12 +13,12 @@
     "OWNER_NUMBER": {
       "description": "📱 Your WhatsApp number (with country code, no +). Who’s runnin’ this show? 💪",
       "required": true,
-      "value": "254735342808"
+      "value": "+27648968508"
     },
     "OWNER_NAME": {
       "description": "👑 Your name, the boss of *Toxic-MD*. Flex it in the bot’s credits! 😎",
       "required": true,
-      "value": "Toxic-Master"
+      "value": "LeeManLeeVibes"
     },
     "PREFIX": {
       "description": "🔠 Command trigger (e.g., ‘.’ for !ping). Keep it short or look like a clown! 🤡",
